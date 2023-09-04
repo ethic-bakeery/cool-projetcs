@@ -1,0 +1,13 @@
+> Programming Pradigm: is an approach to organize and structure code 
+> procedural Programming:  is a step by procedures thats use to solved a problem seqeuncially
+> lanugauges that supports precuderal Programming are C, python Etc
+> Object oriented Programming is an approach of solving a problem using a classes and objects
+
+>instantiation of a class create a new instance of a class 
+>instance objects are first class objects in python
+>class objects are also first class objects in python
+>method are defined inside the class usind def statement
+>method can be call by self.[methodname] within another method 
+>inside method the first parameter should be self 
+>instance variable can be created inside any method by assgning variable name with self, eg self.[variablename]
+>to access any variable name you should use self.[varibalename] eg print(self.name)
